@@ -28,6 +28,7 @@ Clip('Lionel Messi Amazing Freekick Goal vs Liverpool 2019-kdLkEmG05Ak.mkv')
 ```
 
 This will generate
+
 ![](./generated_video.gif)
 
 
@@ -41,6 +42,7 @@ Clip('Lionel Messi Amazing Freekick Goal vs Liverpool 2019-kdLkEmG05Ak.mkv')
 ```
 
 This will generate
+
 ![](./generated_img.jpg)
 
 
